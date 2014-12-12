@@ -1,9 +1,8 @@
 {
-    "name": "radium/framework",
-    "description": "The Radium framework.",
-    "keywords": ["framework", "radium"],
+    "name": "radium/hook",
+    "description": "Radium Hook Component.",
+    "keywords": ["radium", "hook", "plugin"],
     "license": "Apache-2.0",
-    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Jack Polgar",
@@ -12,9 +11,6 @@
     ],
     "require": {
         "php": ">=5.4.0"
-    },
-    "suggest": {
-        "radium/schema-builder": "Easily manage database schema."
     },
     "autoload": {
         "psr-4": {
