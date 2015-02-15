@@ -1,7 +1,7 @@
 {
-    "name": "radium/hook",
-    "description": "Radium Hook Component.",
-    "keywords": ["radium", "hook", "plugin"],
+    "name": "avalon/hook",
+    "description": "Avalon Hook Component.",
+    "keywords": ["avalon", "hook", "plugin"],
     "license": "Apache-2.0",
     "authors": [
         {
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Radium\\": "src/"
+            "Avalon\\": "src/"
         }
     },
     "extra": {
